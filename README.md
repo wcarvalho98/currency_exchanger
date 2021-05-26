@@ -1,4 +1,4 @@
-# fe_be
+# Currency Exchanger
 
 ## Project setup
 ```
